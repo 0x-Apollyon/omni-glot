@@ -22,4 +22,7 @@ Polyglots can be easily abused to stealthily drop malware, as they have a very l
 
 ## File structure
 
+<img width="1631" height="323" alt="image" src="https://github.com/user-attachments/assets/ba8c9e0f-9242-499b-a9ab-8a8ca4b6deb5" />
+
+
 
