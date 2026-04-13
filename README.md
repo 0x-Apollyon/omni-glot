@@ -1,5 +1,5 @@
 # omni-glot
-#### A polyglot which is a HTML, Python, JAR, PDF, JPEG and PDF file simulataneously
+#### A polyglot which is a HTML, Python, JAR, PDF, JPEG, MP4, MP3 and PDF file simulataneously
 
 ## How does it work ?
 Many parsers and file viewers are very lenient with how they process the information stored in a file. For omniglot we take advantage of the following parser quirks
